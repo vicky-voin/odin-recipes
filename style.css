@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(239, 255, 254);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-link
+{
+    padding: 8px 24px;
+    margin: 8px auto;
+    background-color: rgb(140, 176, 243);
+    display: inline-block;
+    color:rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ingerient-list, .directions-list{
+    text-align: left;
+}
+
+.recipe-list
+{
+    background-color: rgb(255, 255, 255);
+    padding: 36px;
+    display: inline-block;
+    color: transparent;
+}
+
+h1, h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(36, 70, 71);
+}
